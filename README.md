@@ -1,0 +1,2 @@
+# CustomConfig-for-BungeeCord
+CustomConfigをBungeeCordのプラグインでも使えるようにした
